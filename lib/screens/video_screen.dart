@@ -15,7 +15,7 @@ class _VideoScreenState extends State<VideoScreen> {
   YoutubePlayerController _controller;
 
   /*
-  LYRICS LOGIC
+  LYRICS LOGIC :)
   */
   String songText = 'ASS';
 
